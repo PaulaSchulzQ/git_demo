@@ -1,0 +1,4 @@
+Primero fui al repositorio original e hice click en fork
+Luego cloné el repo en mi computadora.
+Despues realice los cambios en el html.
+Y finalmente subi los cambios.
